@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(228, 237, 245);
+}
+
+#h{
+    height: 100px;
+    width: 1350px;
+    margin: 0 auto;
+    line-height: 100px;
+    text-align: center;
+    color: blue;
+}
+#p{
+    height: 70px;
+    width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+#main{
+    height: 550px;
+    width: 850px;
+    margin: 0 auto;
+}
+#m1{
+    height: 504px;
+    width: 350px;
+    background-color: blue;
+    float: left;
+    margin-left: 20px;
+}
+#pro{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    margin-left: 90px;
+    margin-top: 20px;
+    border-radius: 360px;    
+}
+#pro img{
+    border-radius: 360px;
+}
+#mp{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+
+}
+#ml{
+    height: 30px;
+    width: 150px;
+    border: 1px solid white ;
+    margin-left: 90px;
+    margin-top: 30px;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+}
+    
+
+#m2{
+    height: 240px;
+    width: 200px;
+    background-color: white;
+    float: left;
+    margin-left: 20px;
+    box-shadow: 10px 10px 10px gray; 
+     
+}
+#m3{
+    height: 240px;
+    width: 200px;
+    background-color: white;
+    float: left;
+    margin-left: 20px;
+    box-shadow: 10px 10px 10px gray;
+   
+    
+}
+#m4{
+    height: 240px;
+    width: 200px;
+    background-color: white;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    box-shadow: 10px 10px 10px gray;
+    
+    
+}
+#m5{
+    height: 240px;
+    width: 200px;
+    background-color: white;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    box-shadow: 10px 10px 10px gray;
+    
+   
+}
+#img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#head{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#p1{
+    font-size: 10px;  
+}
+#aa{
+    height: 13px;
+    width: 28px;
+    border-bottom: 1px solid black;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#m2d{
+    height: 10px;
+    width: 200px;
+    background-color: orange;
+    margin-top: 67px;
+}
+#m3d{
+    height: 10px;
+    width: 200px;
+    background-color: skyblue;
+    margin-top: 75px;
+}
+#m4d{
+    height: 10px;
+    width: 200px;
+    background-color: blue;
+    margin-top: 67px;
+}
+#m5d{
+    height: 10px;
+    width: 200px;
+    background-color: yellow;
+    margin-top: 67px;
+}
+#m2:hover{
+    border-radius: 20px;
+    background-color: rgb(206, 234, 216);
+}
+#m3:hover{
+    border-radius: 20px;
+    background-color: rgb(206, 234, 216);
+}
+#m4:hover{
+    border-radius: 20px;
+    background-color: rgb(206, 234, 216);   
+}
+#m5:hover{
+    border-radius: 20px;
+    background-color: rgb(206, 234, 216);
+}
